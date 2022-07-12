@@ -6,7 +6,7 @@
   - B - Data Cleaning
   - C - Data Analisys and Manipulation
   
-![Panda](https://www.earth.com/news/group-the-giant-panda-is-no-longer-endangered/](https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/73/6a.jpg)))
+![image](https://user-images.githubusercontent.com/28694631/178600416-55009d81-5c96-4bf8-a9c3-4b00c024ba81.png)
 
 
 ![Nobel_prize](https://user-images.githubusercontent.com/28694631/172492250-a002abf9-ddf3-4905-93a4-67a6e0f43a53.JPG)
