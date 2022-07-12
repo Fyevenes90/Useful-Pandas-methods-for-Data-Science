@@ -10,7 +10,7 @@
 from re import T
 import pandas as pd
 
-url_data = (r'https://raw.githubusercontent.com/ugursavci/Pandas_Methods_Medium/main/data/marketing_campaign.csv')
+url_data = (r'https://raw.githubusercontent.com/Fyevenes90/Useful-Pandas-methods-for-Data-Science/main/MKT_data.csv')
 
 data_csv = pd.read_csv(url_data)
 data_csv.shape
