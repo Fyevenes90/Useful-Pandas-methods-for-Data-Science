@@ -8,5 +8,3 @@
   
 ![image](https://user-images.githubusercontent.com/28694631/178600416-55009d81-5c96-4bf8-a9c3-4b00c024ba81.png)
 
-
-![Nobel_prize](https://user-images.githubusercontent.com/28694631/172492250-a002abf9-ddf3-4905-93a4-67a6e0f43a53.JPG)
